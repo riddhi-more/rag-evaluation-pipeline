@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+evaluation_results.csv
+company_policy.pdf
